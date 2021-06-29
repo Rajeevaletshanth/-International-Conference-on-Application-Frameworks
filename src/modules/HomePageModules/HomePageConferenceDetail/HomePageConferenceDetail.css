@@ -1,0 +1,33 @@
+.conferenceDetailsSection {
+  color: cornsilk;
+  padding-top: 10%;
+}
+
+.conferenceDateDiv {
+  background-color: rgb(230, 89, 187);
+  padding: 2%;
+  color: black;
+}
+
+.countDownDiv {
+  background-color: rgb(218, 218, 218);
+  color: black;
+  margin-right: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.countDownData {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+.countDownTitle {
+  background-color: rgb(202, 202, 202);
+  font-size: large;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+@media only screen and (max-width: 400px) {
+}

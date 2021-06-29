@@ -1,0 +1,26 @@
+.timeLineEventDate {
+  color: aliceblue;
+}
+
+.timeLineEvent {
+  border-radius: 5px;
+  background-color: #b50097;
+  padding: 6%;
+  color: aliceblue;
+  font-weight: bold;
+}
+@media only screen and (min-width: 800px) {
+  .timeLineEventDate {
+    color: aliceblue;
+    font-size: larger;
+  }
+
+  .timeLineEvent {
+    background-color: #b50097;
+    border-radius: 15px;
+    padding: 15px 20px;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bold;
+  }
+}

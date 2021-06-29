@@ -1,0 +1,16 @@
+.HomeHeroDiv {
+  background-image: linear-gradient(
+    to right top,
+    #0d0049,
+    #0d0049,
+    #0d0049,
+    #0d0049,
+    #0d0049
+  );
+}
+
+@media only screen and (min-width: 800px) {
+  .HomeHeroDiv {
+    height: 100vh;
+  }
+}
